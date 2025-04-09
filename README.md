@@ -1,1 +1,1 @@
-# NovaCoin-website
+# NovaFi.io
